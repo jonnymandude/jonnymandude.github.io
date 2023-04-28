@@ -21,8 +21,8 @@ author: Jonny Glazier
 
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Reddit: "https://www.reddit.com/"
 
