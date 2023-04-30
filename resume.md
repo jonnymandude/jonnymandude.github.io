@@ -49,13 +49,6 @@ author:
 ### Software Engineer - Intern, Cequence Security
 *Feb 2018 - July 2018, Mountain View, CA*
 
-
-## Projects
-
-**[*Kaggle*](http://kaggle.com/jglazier22)**
-
-**[*Github*](http://github.io/jonnymandude)**
-
 ## Education
 
 ### Northwestern University, McCormick School of Engineering

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A Game of Numbers? An Exploration of the 2023 QB Class
-subtitle: Using Deep Learning to predict the draft position ouf our newest QB crop
+subtitle: Using Deep Learning to predict the draft position of our newest QB crop
 cover-img: /assets/img/kc_draft.webp
 thumbnail-img: /assets/img/strong_levis.webp
 gh-repo: jonnymandude/QBR_scraper
-tags: [ml, nfl, ]
+tags: [ml, nfl, josh_allen_is_good]
 ---
 
 Art or Science? Drafting a quarterback in the NFL is an impactful decision. The fate of a GM, coach and, in extreme cases, franchise lie within the prudence of the selection. In an effort to cut through the noise and chatter from pundits and fans alike, we'll see if we can stitch together a numerical moel that predicts a QBs draft position in their respective class. 
