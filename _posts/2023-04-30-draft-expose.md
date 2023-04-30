@@ -30,13 +30,13 @@ Using a combination of advanced statistics and combine measurables, we'll attemp
 
 The results? Not terribly predictive. [Take a look](https://www.kaggle.com/code/jglazier22/nfl-draft-exploration-a-qb-s-tale). As is the case with most social phenomena, we're not able to formulaically model the patterns that result in pick outcomes. The problem we're faced with is two-fold. 
 
-1. Lack of Data
+### Lack of Data
 
 We don't have years of information on thousands of QB selections. Furthermore, the game evolves and statistics that were useful in the 90s are no longer useful in the modern era. In addition to that, not all advanced statistics are alike. Is Clayton Tune's passing yards against non Power 5 defenses as impressive as Anthony Richardson's performances within the SEC? What about comparing Will Levis against Stetson Bennett in the same conference? The quality of their rosters are highly distinct. 
 
-Another aspect of this data set that is sorely missing is additional combine statistics. The combine is a great equalizer. By including this, we' have a standardized test of sorts amongst players
+Another aspect of this data set that is sorely missing is additional combine statistics. The combine is a great equalizer. By including this, we' have a standardized test of sorts amongst players. Things like strength scores, speed scores, agility scores, etc would much better contextualize the raw physical traits of the QBs. 
 
-2. Interpretation
+### Interpretation
 
 Many PFF stats and advanced stats are plagued with human interpretation. This makes it such that we plague these numbers with non-objective bias. In the event that we accurately diagnose Josh Allen as an elite passer despite underwhelming college numbers, our interpretations are accurate corrections. When we use this same thesis to justify a Paxton Lynch-esque selection, we no longer are quite so slick. 
 
