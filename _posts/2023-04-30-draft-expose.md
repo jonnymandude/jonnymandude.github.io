@@ -56,11 +56,10 @@ Very interesting how the model loves Richardson. It appears as though there is o
 
 One of the main takeaways of all of this is the imprecision and the lack of the ability to reduce a QB down to their raw numbers. My recommendation, watch the tape. Richardson's does not disappoint: 
 
-[![IMAGE_ALT](https://img.youtube.com/vi/1JuZdq8iW/0.jpg)](https://www.youtube.com/watch?v=1JuZdq8iW-I&ab_channel=JustBombsProductions)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1JuZdq8iW-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{: .mx-auto.d-block :}
 
 
 If you're really curious about what a true number one pick looks like, look no further than the mild man from Palo Alto: 
 
-[![IMAGE_ALT](https://img.youtube.com/vi/N5STc2_bM7k/0.jpg)](https://www.youtube.com/watch?v=N5STc2_bM7k&ab_channel=gpoppa11)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5STc2_bM7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{: .mx-auto.d-block :}
 
