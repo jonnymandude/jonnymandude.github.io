@@ -25,11 +25,11 @@ author:
 ```System architecture & design```
 ```Fun Facts```
 
-**Programming**: Python, Go, Javascript, Ruby, Rails
+**Programming**: Python, Go, Javascript, Ruby, Rails, React, Typescript, Redux
 
 **Databases**: MySQL, Postgres, Mongo, Snowflake, Hadoop, CockroachDB, ElasticSearch
 
-**DevOps**: Terraform, CircleCI, Kubernetes
+**DevOps**: Terraform, CircleCI, Kubernetes, Argo, Docker, AWS, GCP
 
 **Data Processing**: Airflow, Beam, Flink
 
@@ -54,11 +54,7 @@ author:
 
 **[*Kaggle*](http://kaggle.com/jglazier22)**
 
-- More to come
-
 **[*Github*](http://github.io/jonnymandude)**
-
-- More to come
 
 ## Education
 
