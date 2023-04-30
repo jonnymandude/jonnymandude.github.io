@@ -46,13 +46,13 @@ Many PFF stats and advanced stats are plagued with human interpretation. This ma
 
 There are a few QBs that the model loved. The model felt this should've been the draft order: 
 
-- Anthony Richardson
 - Hendon Hooker
+- Anthony Richardson
+- Clayton Tune
 - DTR
-- Jaren Hall
-- Bryce Young
+- CJ Stroud
 
-Very interesting how the model loves Richardson. It appears as though there is overweighting on the ability to run and the raw college QBR. Nothing crazy, but we would do well to incorporate some analysis of throwing ability. 
+Very interesting how the model loves Richardson. It appears as though there is overweighting on the ability to run and the raw college QBR. Nothing crazy, but we would do well to incorporate some analysis of throwing ability. Some overall team metrics would be incredibly helpful as well. This would bring Bryce back into the fray.
 
 One of the main takeaways of all of this is the imprecision and the lack of the ability to reduce a QB down to their raw numbers. My recommendation, watch the tape. Richardson's does not disappoint: 
 
