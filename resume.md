@@ -9,6 +9,8 @@ keywords:
   - 'kubernetes'
   - 'rails'
   - 'data'
+title: Jonny Glazier
+subtitle: Software Engineer
 author:
 - Jonny Glazier
 ---

@@ -22,9 +22,9 @@ author: Jonny Glazier
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Reddit: "https://www.reddit.com/"
+  # Resources:
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #  - Reddit: "https://www.reddit.com/"
 
 ################
 # --- Logo --- #
@@ -119,8 +119,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/subset_trees.png"
-#footer-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/other_trees.PNG"
+footer-img: "/assets/img/marin_4k.png"
 #page-img: "/assets/img/marin_4k.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
