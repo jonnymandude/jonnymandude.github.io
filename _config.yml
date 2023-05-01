@@ -119,7 +119,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/other_trees.PNG"
+navbar-img: "/assets/img/marin_trees.PNG"
 footer-img: "/assets/img/marin_4k.png"
 #page-img: "/assets/img/marin_4k.jpg"
 

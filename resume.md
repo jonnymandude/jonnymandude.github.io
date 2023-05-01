@@ -14,7 +14,10 @@ subtitle: Software Engineer
 author:
 - Jonny Glazier
 ---
-###### [[jonnyg.me](https://jonnyg.me)] . [ jonny@teamnorcal.com]
+
+
+***<p style="text-align: center;">[jonnyg.me] · [jonny@teamnorcal.com] </p>***
+
 
 ## Skills
 
