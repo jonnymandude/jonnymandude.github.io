@@ -16,7 +16,7 @@ author:
 ---
 
 
-***<p style="text-align: center;">[jonnyg.me] · [jonny@teamnorcal.com] </p>***
+<h3 align="center">[jonnyg.me] · [jonny@teamnorcal.com] </h3>
 
 
 ## Skills
