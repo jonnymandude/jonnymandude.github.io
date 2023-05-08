@@ -4,8 +4,7 @@ title: A Game of Numbers? An Exploration of the 2023 QB Class
 subtitle: Using Deep Learning to predict the draft position of our newest QB crop
 cover-img: /assets/img/kc_draft.webp
 thumbnail-img: /assets/img/strong_levis.webp
-gh-repo: jonnymandude/QBR_scraper
-gh-badge: [star, fork, follow]
+
 tags: [ml, nfl, josh_allen_is_good]
 ---
 
