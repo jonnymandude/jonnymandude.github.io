@@ -4,7 +4,8 @@ title: Flask Material Kit + OpenAI API = Travel Agent?
 subtitle: Combining ChatGPT and Flask Material Kit to create some fun trip itineraries
 cover-img: /assets/img/travel_time.jpeg
 thumbnail-img: /assets/img/openai.png
-
+gh-repo: jonnymandude/openai-travel-recommender
+gh-badge: [star, follow]
 tags: [openai, flask, material_kit, gpt]
 ---
 
