@@ -75,3 +75,5 @@ Let's give it another chance with a different trip
 
 This effectively hits the nail on the head. More general recommendations are going to be exactly correct and avoid all of the pitfalls of incorrect AI knowledge.
 
+As a general rule of thumb, it's best to leverage many automated tools as something that gets you 80% there. Some rough edges will (hopefully) need to be cleaned up for the foreseeable future. Otherwise, I'm out of a job
+
