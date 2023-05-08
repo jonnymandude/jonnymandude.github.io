@@ -1,20 +1,9 @@
 ---
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
+layout: page
 title: Jonny Glazier
 subtitle: Software Engineer
-keywords:
-  - 'python'
-  - 'ruby'
-  - 'kubernetes'
-  - 'rails'
-  - 'data'
-author:
-- Jonny Glazier
 ---
-[[jonnyg.me](https://jonnyg.me)] . [ jonny@teamnorcal.com]
+[[jonnyg.me](https://jonnyg.me)] . [ jonny@teamnorcal.com] . [ San Francisco, CA ]
 
 ## Skills
 
