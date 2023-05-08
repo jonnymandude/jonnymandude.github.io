@@ -16,7 +16,7 @@ author:
 ---
 
 
-<h3 align="center">[jonnyg.me] · [jonny@teamnorcal.com] </h3>
+<h3 align="center">[jonnyg.me] · [jonny@teamnorcal.com] . [ San Francisco, CA ]</h3>
 
 
 ## Skills
