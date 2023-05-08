@@ -22,9 +22,6 @@ author: Jonny Glazier
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Reddit: "https://www.reddit.com/"
 
 ################
 # --- Logo --- #

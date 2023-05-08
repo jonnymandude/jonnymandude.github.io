@@ -3,6 +3,8 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
+title: Jonny Glazier
+subtitle: Software Engineer
 keywords:
   - 'python'
   - 'ruby'
@@ -12,7 +14,7 @@ keywords:
 author:
 - Jonny Glazier
 ---
-###### [[jonnyg.me](https://jonnyg.me)] . [ jonny@teamnorcal.com]
+[[jonnyg.me](https://jonnyg.me)] . [ jonny@teamnorcal.com]
 
 ## Skills
 
