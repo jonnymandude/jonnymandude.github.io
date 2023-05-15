@@ -26,6 +26,3 @@ At times, one must walk by faith, not by sight. There's no better way to experie
 ### Stanford Football
 
 To be sure, we are in the doldrums of both the Pac 12 and Stanford Football. However, it was not too long ago that the Stanford Cardinal were at the bottom of the list of teams that anyone would want to play. Jim Harbaugh's revolution saw the team go from cellar dwellars to perennial BCS attendees. Prolific running back play from the likes of Bryce Love, Toby Gerhart and Christian McCaffrey were complimented by elite Quarterback play from Kevin Hogan and Andrew Luck. High caliber trenchmen were on both sides of the ball and their defense was known for being as stingy as they come. Perhaps most impressively, Stanford has had an indominable spirit when faced with the tallest of odds. No game moreso embodies this than their 2007 trip to the City of Angels
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=qIUh11fcbFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{: .mx-auto.d-block :}
