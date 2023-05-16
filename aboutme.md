@@ -5,14 +5,7 @@ title: About me
 
 Born in Palo Alto. Quick stop in Chicago. Longer stop in San Francisco.
 
-# Things I like 
-
-### Jake's Steaks
-
-![yum](https://s.hdnux.com/photos/01/31/23/04/23408931/6/ratio3x2_1200.jpg)
-
-American classics are built on a simple foundation: meat and cheese. While there are numerous ways to combine the aforementioned delicacies, few ways are quite as unctuous and satisfying as the Philly Cheesesteak. Typically found on the East Coast, Jake's Steaks brings the molten sub to the Marina District of San Francisco. If you're around, I'd recommend the wiz or the white american. A good cheesesteak deserves some serious cheese meltage
-
+## Stuff I like 
 
 ### Buffalo Bills 
 
@@ -21,6 +14,18 @@ American classics are built on a simple foundation: meat and cheese. While there
 At times, one must walk by faith, not by sight. There's no better way to experience these words than through life as a Bills fan. The Buffalo faithful have been pushed to the brink, experiencing both heartbreak for the team and the city over the franchises 60+ history in Western New York. Despite all of this, the fans haven't blinked. The poet Albert Camus may accurate sum the experience: 
 
 > “In the midst of winter, I found there was, within me, an invincible summer. And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.”
+
+### Jake's Steaks
+
+![yum](https://s.hdnux.com/photos/01/31/23/04/23408931/6/ratio3x2_1200.jpg)
+
+American classics are built on a simple foundation: meat and cheese. While there are numerous ways to combine the aforementioned delicacies, few ways are quite as unctuous and satisfying as the Philly Cheesesteak. Typically found on the East Coast, Jake's Steaks brings the molten sub to the Marina District of San Francisco. If you're around, I'd recommend the wiz or the white american. A good cheesesteak deserves some serious cheese meltage
+
+### Puss In Boots II 
+
+<iframe width="1531" height="780" src="https://www.youtube.com/embed/RqrXhwS33yc" title="Puss In Boots: The Last Wish - Official Trailer 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Hear me out on this one. Universal Pictures has reached high heights before. What with the likes of Shrek and Shrek 2 (not so much the rest of the series), they brought themselves into the living rooms of families across the world; delighting kids and adults alike. Their crown jewel? Surely Puss in Boots: The Last Wish. It strikes all of the chords you'd possibly want an animated film to hit: creative animation effects, unique art style, lively voice acting and a plot line that is both poignant and plucks at the heart strings of those who watch. The film delicately maintains a whimsical humor and sense of tension as our hero attempts to avoid death's call, setting into events a tale of greed, lust and betrayal. What more could one ask for? 
 
 
 ### Stanford Football
