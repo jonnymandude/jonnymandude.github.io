@@ -23,7 +23,7 @@ American classics are built on a simple foundation: meat and cheese. While there
 
 ### Puss In Boots II 
 
-<iframe width="700" height="780" src="https://www.youtube.com/embed/RqrXhwS33yc" title="Puss In Boots: The Last Wish - Official Trailer 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="300" src="https://www.youtube.com/embed/RqrXhwS33yc" title="Puss In Boots: The Last Wish - Official Trailer 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Hear me out on this one. Universal Pictures has reached high heights before. What with the likes of Shrek and Shrek 2 (not so much the rest of the series), they brought themselves into the living rooms of families across the world; delighting kids and adults alike. Their crown jewel? Surely Puss in Boots: The Last Wish. It strikes all of the chords you'd possibly want an animated film to hit: creative animation effects, unique art style, lively voice acting and a plot line that is both poignant and plucks at the heart strings of those who watch. The film delicately maintains a whimsical humor and sense of tension as our hero attempts to avoid death's call, setting into events a tale of greed, lust and betrayal. What more could one ask for? 
 
