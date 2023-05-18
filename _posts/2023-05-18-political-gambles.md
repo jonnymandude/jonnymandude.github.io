@@ -14,6 +14,7 @@ Is politics a load of smoke and mirrors? Is democracy on the brink of collapse? 
 What I'd like to do is see how long it would take to set up some foundational infrastructure for streaming real time odds of any and all wagers. Seeing as the temperature is cranking up for the Oval Office in 2024, what better place to start than with political betting lines. At a high level, I'm going to use Serverless code to scrape odds from an online source. I'll then publish these odds to a kafka topic correlated to the betting markets in question. I'll use separate code to pull from these topics and then visualize these odds within a simple client. It's like an infinite money glitch, see below: 
 
 ![InfiniteCashMan](/assets/img/infinite_money.PNG)
+*As you can see, that is me. I am making loads of money. Its so smart*
 
 
 Get into the repo, create your terraform resources and start to run your code. Unfortunatley, I haven't set up enough of the confluent terraform resources (shoot), so you'll need to follow their [Getting Started Guides](https://docs.confluent.io/platform/current/platform-quickstart.html) and fire up a new environment. For today, we'll skip the schema enforcement and the schema registry steps for Kafka. Obviously, this is of the utmost importance within production systems. Seeing as there is only my own money on the line in this setup, the stakes aren't as high (*sarcasm*). This is just about all the code you'll need to interact with a Kafka cluster and start publishing metrics, it's pretty sweet: 
@@ -69,6 +70,7 @@ Once we get things all hooked up, we're off and running. By publishing metrics t
 A quick note for duplications sake, we'll need to dedupe the odds as to not overwrite items into our DB. Pretty simple stuff. Once we've got things up and running, the logs should look like this 
 
 ![CONSUME](/assets/img/produceandconsume.PNG)
+*Split console goes brrrrrr*
 
 Pretty epic, let's then look at how we can visualize this with a basic client. By simply querying the database, we can propagate the results up to the end user. Really simple Node endpoints can be created to surface this to a user and then we can visualize the results in React. 
 
@@ -98,6 +100,7 @@ app.get('/api/getData', (req, res) => {
 ```
 
 ![Odds=](/assets/img/real_time_odds.PNG)
+*I am officially a product designer*
 
 Outstanding! Currently, we're just gonna visualize the most recent odds, to give us an up to date view of the political landscape. However, we could very easily gather loads of data from the server and do a visualization of the changing odds over time with tools like [Recharts](https://recharts.org/en-US/)
 
