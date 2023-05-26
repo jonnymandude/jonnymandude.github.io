@@ -42,8 +42,8 @@ import pinecone
 
 # Connect to pinecone environment
 pinecone.init(
-    api_key="deaf9ca4-1924-4690-afff-2efde1948897",
-    environment="us-west4-gcp-free"
+    api_key="NICETRY",
+    environment="WISEGUY"
 )
 
 index_name = 'gif-search'
