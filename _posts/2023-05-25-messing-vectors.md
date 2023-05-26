@@ -3,7 +3,7 @@ layout: post
 title: Messing with Vectors
 subtitle: Dipping one's toes into the newest VC pheomenon of Vector Databases
 cover-img: /assets/img/piiine.webp
-thumbnail-img: /assets/img/vectr.PNG
+thumbnail-img: /assets/img/vctr.jpeg
 tags: [vector, pinecone, giphy, swag]
 ---
 
